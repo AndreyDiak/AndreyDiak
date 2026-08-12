@@ -110,7 +110,7 @@
       <circle r="0.8" fill="#2563EB"><animateMotion dur="20s" repeatCount="indefinite" path="M200,100 Q500,400 700,300 T1000,580"/><animate attributeName="opacity" values="0;0.4;0" dur="20s" repeatCount="indefinite"/></circle>
     </g>
 
-    <g filter="url(#noise)">
+    <g>
       <!-- LEFT PANEL -->
       <g clip-path="url(#leftPanelClip)">
         <rect x="24" y="24" width="424" height="562" rx="16" fill="#F8FAFC" filter="url(#softShadow)"/>
