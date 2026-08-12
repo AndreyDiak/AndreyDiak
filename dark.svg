@@ -180,7 +180,7 @@
           Hi 👋<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.3s" fill="freeze" repeatCount="indefinite"/>
         </text>
         <text x="496" y="142" class="sans" font-size="34" font-weight="700" fill="#F8FAFC" opacity="0">
-          I'm Alex Chen<animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.8s" fill="freeze" repeatCount="indefinite"/>
+          I'm Andrey Diakov<animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.8s" fill="freeze" repeatCount="indefinite"/>
         </text>
 
         <!-- Animated typing roles -->
@@ -195,12 +195,11 @@
         </rect>
 
         <!-- Info lines — sequential reveal -->
-        <g class="mono" font-size="14">
-          <text x="496" y="238" fill="#94A3B8" opacity="0"><tspan fill="#7C3AED">▸ </tspan>Location<tspan fill="#F8FAFC">   San Francisco, CA</tspan><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.5s" fill="freeze" repeatCount="indefinite"/></text>
-          <text x="496" y="264" fill="#94A3B8" opacity="0"><tspan fill="#22D3EE">▸ </tspan>Education<tspan fill="#F8FAFC">  B.S. Computer Science</tspan><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.0s" fill="freeze" repeatCount="indefinite"/></text>
-          <text x="496" y="290" fill="#94A3B8" opacity="0"><tspan fill="#10B981">▸ </tspan>Focus<tspan fill="#F8FAFC">       Design Systems &amp; DX</tspan><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.5s" fill="freeze" repeatCount="indefinite"/></text>
-          <text x="496" y="316" fill="#94A3B8" opacity="0"><tspan fill="#7C3AED">▸ </tspan>Portfolio<tspan fill="#22D3EE">  alexchen.dev</tspan><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.0s" fill="freeze" repeatCount="indefinite"/></text>
-          <text x="496" y="342" fill="#94A3B8" opacity="0"><tspan fill="#22D3EE">▸ </tspan>Email<tspan fill="#F8FAFC">       hello@alexchen.dev</tspan><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.5s" fill="freeze" repeatCount="indefinite"/></text>
+         <g class="mono" font-size="14">
+          <text x="496" y="238" fill="#475569" opacity="0"><tspan fill="#2563EB">▸ </tspan>Location<tspan fill="#0F172A">    Russian, Moscow</tspan><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.5s" fill="freeze" repeatCount="indefinite"/></text>
+          <text x="496" y="264" fill="#475569" opacity="0"><tspan fill="#06B6D4">▸ </tspan>Education<tspan fill="#0F172A">   MIREA</tspan><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.0s" fill="freeze" repeatCount="indefinite"/></text>
+          <text x="496" y="290" fill="#475569" opacity="0"><tspan fill="#10B981">▸ </tspan>Focus<tspan fill="#0F172A">       Frontend Development &amp; DX</tspan><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.5s" fill="freeze" repeatCount="indefinite"/></text>
+          <text x="496" y="342" fill="#475569" opacity="0"><tspan fill="#06B6D4">▸ </tspan>Email<tspan fill="#0F172A">       brodiaga_0880@mail.ru</tspan><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.5s" fill="freeze" repeatCount="indefinite"/></text>
         </g>
 
         <!-- Skills -->
